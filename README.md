@@ -58,9 +58,6 @@ Here are some of the technologies I've been working with:
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
     </a>
-      <a href="https://ultralytics.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo.svg" alt="yolo" width="40" height="40"/>
-    </a>
 </p>
 
 ---
@@ -73,9 +70,6 @@ Here are some of the technologies I've been working with:
     </a>
     <a href="https://twitter.com/[your-twitter-username]" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="no-tweet" height="30" width="40" />
-    </a>
-    <a href="https://[your-personal-website].com" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/domain.svg" alt="Your Website" height="30" width="40" />
     </a>
     <a href="https://leetcode.com/ankushgupta06/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankushgupta06" height="30" width="40" />
