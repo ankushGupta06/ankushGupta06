@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer and ML Engineer from India</h3>
 
 <p align="center">
-  <img src="https://[YOUR-IMAGE-URL-HERE]" alt="A cool banner image or gif for your profile" width="800">
+  <img src="github banner.jpg" alt="A cool banner image or gif for your profile" width="800" height="400">
 </p>
 
 ---
