@@ -19,7 +19,6 @@
 - 💬 Ask me about **Node JS, Python, Machine Learning]**.
 - 📫 How to reach me: **iamankushgupta68@gmail.com**
 - 😄 Pronouns: **bug/debug**
-- ⚡ Fun fact: **[A fun fact about you]**
 
 ---
 
