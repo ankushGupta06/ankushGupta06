@@ -48,15 +48,14 @@ Here are some of the technologies I've been working with:
 
 ---
 
-### 📊 My GitHub Stats
+## 📊 My GitHub Stats
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ankushGupta06&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushGupta06&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-    <br/>
-    <img src="https://streak-stats.demolab.com/?user=ankushGupta06&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankushGupta06&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankushGupta06&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ankushGupta06&theme=radical&hide_border=true)
+
 
 ---
 
