@@ -25,21 +25,44 @@
 ### 🛠️ My Skills
 
 Here are some of the technologies I've been working with:
-
+💻 Languages & Frontend
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
-  <br>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="NodeJS" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/html5-icon.svg" alt="HTML5" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/css3-icon.svg" alt="CSS3" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
 </div>
 
+⚙️ Backend & Database
+<div align="center">
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="NodeJS" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="50" height="50" />
+</div>
+
+🤖 Machine Learning
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50" />
+</div>
+
+🛠️ Tools & DevOps
+<div align="center">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VSCode" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
+</div>
+<!-- <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,mysql,sklearn,opencv,sequelize,react,nodejs,express,mongodb,postgres,aws,docker,git,github,vscode,linux" />
+</p> -->
 ---
 
 ### 🔗 Connect with Me
