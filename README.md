@@ -63,12 +63,26 @@ I'm a B.Tech student from India with a passion for building innovative web appli
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankushGupta06&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<p align="center">
+  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ankushGupta06&theme=flat&no-bg=true&margin-w=15" />
+  </a> -->
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankushGupta06&layout=compact&theme=radical&hide_border=true)
+<table border="0" align="center">
+  <tr>
+    <td width="50%" align="center">
+       <img src="https://github-readme-stats.vercel.app/api?username=ankushGupta06&show_icons=true&bg_color=ffffff&title_color=007acc&text_color=333333&icon_color=ffcc00&hide_border=true&count_private=true" />
+    </td>
+    <td width="50%" align="center">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushGupta06&layout=compact&bg_color=ffffff&title_color=007acc&text_color=333333&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ankushGupta06&theme=radical&hide_border=true)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankushGupta06&bg_color=f5f5f5&color=007acc&line=ffcc00&point=007acc&hide_border=true&area=true" />
+</p>
 
 ---
 
