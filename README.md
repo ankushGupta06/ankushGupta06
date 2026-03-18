@@ -7,7 +7,7 @@
 
 I'm a B.Tech student from India with a passion for building innovative web applications and training machine learning models. I have a knack for creating AI agents (mostly useless lol) and I'm always eager to learn new technologies.
 
-- 🎓 Currently preparing for **GATE** and mastering **Convolutional Neural Networks**.
+- 🎓 Currently mastering **Convolutional Neural Networks**.
 - 🛠️ Building an **Online Coding Platform**.
 - 👯 Looking to collaborate on **Open Source Web Dev & ML projects**.
 - 🤔 Looking for help with **React Native**.
