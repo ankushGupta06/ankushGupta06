@@ -21,24 +21,31 @@ I'm a B.Tech student from India with a passion for building innovative web appli
 
 ### 🛠️ My Skills
 
-<p align="left">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=html,css" alt="frontend-skills" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="frontend-skills" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/></td>
+    <td><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/></td>
+    <td><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50"/></td>
+    <td><img src="https://skillicons.dev/icons?i=html" width="50"/></td>
+    <td><img src="https://skillicons.dev/icons?i=css" width="50"/></td>
+    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" width="50"/></td>
+    <td><img src="https://skillicons.dev/icons?i=express" width="50"/></td>
+    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50"/></td>
+    <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50"/></td>
+    <td><img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/></td>
+  </tr>
+</table>
 
 <!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,mysql,sklearn,opencv,sequelize,react,nodejs,express,mongodb,postgres,aws,docker,git,github,vscode,linux" />
